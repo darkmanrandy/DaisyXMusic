@@ -1,7 +1,7 @@
-<h1 align="centre">DAISYXMUSIC V4.0 🎵</h1>
+<h1 align="centre">StreamMusiq V3.0 🎶</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
-#### POWERED BY [PYTGCALLS](https://github.com/pytgcalls/pytgcalls)
+#### POWERED BY [TENDKOTTA](https://telegram.me/tendkotta)
 ### Available on telegram as [@tendkotta](https://t.me/tendkotta)
 
 <p align="center">
@@ -107,7 +107,4 @@ If you donlt like to play in linked channel:
 Don't edit this part
 
 #### Special Credits
-- [Rojserbest](http://github.com/rojserbes): Callsmusic Developer
-
-This bot is based on the original work done by [Rojserbest](http://github.com/rojserbest). Without his hardwork daisyxmusic won't exist. 
-DaisyXmusic is a modified version of [Callsmusic](https://github.com/callsmusic/callsmusic) for fit the needs of @DaisyXbot users
+- [forker](http://telegram.me/agamudaiyathevan): StreamMusiq
